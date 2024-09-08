@@ -1,0 +1,17 @@
+{
+    "vehicleData": {
+        "make": "BMW",
+        "model": "Scooter",
+        "cylinderCapacity": "1000",
+        "dateOfManufacture": "04/09/2024"
+    },
+    "insurantData": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "birthdate": "02/09/2005" 
+    },
+    "productData": {
+        "startDate": "12/12/2024",
+        "insuranceSum": "10.000.000,00"
+    }
+}
